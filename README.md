@@ -1,2 +1,3 @@
 # hello-world
-aabbcc
+
+It's a good day
